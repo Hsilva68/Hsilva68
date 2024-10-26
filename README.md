@@ -1,5 +1,4 @@
 # Bem vindos! Eu sou o Henrique Silva 👦🏾
-  ### Engenheiro de Dados em construção ⛏️ 
 
 
 
