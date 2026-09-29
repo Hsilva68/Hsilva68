@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique Silva 👋
+# Olá, eu sou o Henrique Silva!
 
 **Profissional de TI | Automação, integrações e desenvolvimento de soluções digitais**
 
